@@ -1,0 +1,9 @@
+REST api in express and node
+Rest api will support the JSON data 
+
+GET /users -> List all users
+GET /users/1 --> Get the user wth id 1.
+GET /users/2 --> Get the user wth id 2.
+POST /users - create new user
+PATCH /user/id --> Edit the user with given id
+DELETE /users/1 --> delete the user wuth id 1.
